@@ -25,8 +25,8 @@ Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 Listy (numerowana, wypunktowana, definicji)
 
 1. Lorem
-1. ipsum
-1. dolor
+2. ipsum
+3. dolor
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 
