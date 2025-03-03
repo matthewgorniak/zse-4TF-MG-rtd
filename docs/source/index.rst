@@ -26,6 +26,13 @@ Akapit informacyjny (Note, Tip)
 
 Fragment kodu (liniowy, blokowy)
 
+To jest ``liniowy fragment`` kodu
+
+.. code-block::
+   void main() {
+      printf("Hello world");
+   }
+
 Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
 Listy (numerowana, wypunktowana, definicji)
