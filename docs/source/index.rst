@@ -28,10 +28,9 @@ Fragment kodu (liniowy, blokowy)
 
 To jest ``liniowy fragment`` kodu
 
-.. codeblock::cpp
-   void main() {
-      printf("Hello world");
-   }
+.. code-block:: python
+
+   print "Hello, World!\n"
 
 Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
