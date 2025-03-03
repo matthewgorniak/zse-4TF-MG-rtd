@@ -47,3 +47,9 @@ Obraz (z alternatywnym tekstem oraz podpisem)
   To jest podpis
 
 Tabela (jeżeli istnieje)
+
+====== ==
+Tabele są
+====== ==
+fajne  !
+====== ==
