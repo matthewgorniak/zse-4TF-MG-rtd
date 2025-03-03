@@ -30,4 +30,10 @@ Listy (numerowana, wypunktowana, definicji)
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 
+.. figure:: https://picsum.photos/400
+  :width: 400
+  :alt: Alternative text
+
+  To jest podpis
+
 Tabela (jeżeli istnieje)
