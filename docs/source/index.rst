@@ -28,7 +28,7 @@ Fragment kodu (liniowy, blokowy)
 
 To jest ``liniowy fragment`` kodu
 
-.. code-block::
+.. codeblock::
    void main() {
       printf("Hello world");
    }
