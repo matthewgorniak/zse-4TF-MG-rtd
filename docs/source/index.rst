@@ -18,6 +18,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper est 
 
 Akapit informacyjny (Note, Tip)
 
+.. note::
+   To jest akapit Note
+
+.. tip::
+   To jest akapit Tip
+
 Fragment kodu (liniowy, blokowy)
 
 Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
