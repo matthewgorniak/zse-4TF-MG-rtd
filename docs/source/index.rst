@@ -28,6 +28,16 @@ Listy (numerowana, wypunktowana, definicji)
 2. ipsum
 3. dolor
 
+- Lorem
+- ipsum
+- dolor
+
+Definicja A
+   To jest definicja A
+
+Definicja B
+   To jest definicja B
+
 Obraz (z alternatywnym tekstem oraz podpisem)
 
 .. figure:: https://picsum.photos/400
