@@ -3,9 +3,14 @@ Nagłówki tekstowe (poziomy 1-4)
 Lorem ipsum
 ===========
 
-## Lorem ipsum
-### Lorem ipsum
-#### Lorem ipsum
+Lorem ipsum
+-----------
+
+Lorem ipsum
++++++++++++
+
+Lorem ipsum
+###########
 
 Akapit tekstowy (treść)
 
