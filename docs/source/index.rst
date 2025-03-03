@@ -1,3 +1,4 @@
+.. _TopAnchor:
 Nagłówki tekstowe (poziomy 1-4)
 
 Lorem ipsum
@@ -26,13 +27,17 @@ Akapit informacyjny (Note, Tip)
 
 Fragment kodu (liniowy, blokowy)
 
-To jest ``liniowy fragment`` kodu
+``print "Hello, World!\n"``
 
 .. code-block:: python
 
    print "Hello, World!\n"
 
 Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
+
+`Odnośnik zewnętrzny<https://www.youtube.com/watch?v=2942BB1JXFk>`_
+
+`Odnośnik wewnętrzny<_TopAnchor>`_
 
 Listy (numerowana, wypunktowana, definicji)
 
